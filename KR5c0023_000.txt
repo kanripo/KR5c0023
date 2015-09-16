@@ -1,10 +1,10 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 太上老君説了心經
+#+TITLE: 太上老君說了心經
 #+DATE: 2015-08-29 00:16:49
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
-<md:KR5c0023_HFL_000-001a>¶<pb:KR5c0023_CK-KZ_01p052a>
+<md:KR5c0023_HFL_000-001a>¶<pb:KR5c0023_YP-C_06weiji-01-0059a>
 太上老君說了心經¶
 若夫修道先觀其心心爲神主動靜從心心¶動無靜不動了眞
 心爲禍本心爲道宗不動¶不靜無想無存無心無動有動從心
@@ -15,6 +15,6 @@
 老君曰吾觀眾生不了其心徒勞浩劫虛役¶其神於心無了永
 劫沉淪依吾¶<md:KR5c0023_HFL_000-001b>¶
 聖教逍遙抱眞¶¶
-<pb:KR5c0023_CK-KZ_01p052b>
+<pb:KR5c0023_YP-C_06weiji-01-0059b>
 
 太上老君說了心經
